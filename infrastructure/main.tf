@@ -20,7 +20,7 @@ provider "azurerm" {
 
 variable "location" {
   type    = string
-      default = "westus3"
+  default = "westus3"
 }
 
 variable "labelPrefix" {
