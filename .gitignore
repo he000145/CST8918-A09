@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+**/.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.plan
+
+# Node
+node_modules/
+
+# VS Code / OS
+.vscode/
+.DS_Store
